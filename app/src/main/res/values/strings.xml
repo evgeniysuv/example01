@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example01</string>
+    <string name="exampleText">Example Text</string>
+    <string name="push_me01">Push me 1</string>
+    <string name="push_me02">Push me 2</string>
+    <string name="push_me03">Push me 3</string>
+</resources>
