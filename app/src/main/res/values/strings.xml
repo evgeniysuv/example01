@@ -4,4 +4,6 @@
     <string name="push_me01">Push me 1</string>
     <string name="push_me02">Push me 2</string>
     <string name="push_me03">Push me 3</string>
+    <string name="text_counter">Counter = %1$d</string>
+    <string name="time_remaining">time remaining = %1$d %2$s</string>
 </resources>
